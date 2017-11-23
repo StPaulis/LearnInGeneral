@@ -1,0 +1,22 @@
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.deps.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.dev.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.dll
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csprojResolveAssemblyReference.cache
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csproj.CoreCompileInputs.cache
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfoInputs.cache
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfo.cs
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.pdb
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.dll
+c:\users\s.pavlis\documents\visual studio 2017\Projects\TestSignalR\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.pdb
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.deps.json
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.json
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.dll
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\bin\Debug\netcoreapp2.0\TestSignalR.pdb
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csprojResolveAssemblyReference.cache
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.dll
+C:\Users\s.pavlis\Source\Learn\SignalR\AspCore\TestSignalR\obj\Debug\netcoreapp2.0\TestSignalR.pdb

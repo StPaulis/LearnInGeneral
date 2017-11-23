@@ -1,0 +1,10 @@
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\bin\Debug\netcoreapp2.0\Worker.deps.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\bin\Debug\netcoreapp2.0\Worker.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\bin\Debug\netcoreapp2.0\Worker.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\bin\Debug\netcoreapp2.0\Worker.pdb
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\obj\Debug\netcoreapp2.0\Worker.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\obj\Debug\netcoreapp2.0\Worker.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Worker\obj\Debug\netcoreapp2.0\Worker.pdb

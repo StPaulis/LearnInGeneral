@@ -1,0 +1,10 @@
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.deps.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\bin\Debug\netcoreapp2.0\RPCServer.pdb
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 6\RPCServer\obj\Debug\netcoreapp2.0\RPCServer.pdb

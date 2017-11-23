@@ -1,0 +1,16 @@
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPatternTest.deps.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPatternTest.runtimeconfig.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPatternTest.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPatternTest.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPatternTest.pdb
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPattern.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\bin\Debug\netcoreapp2.0\MediatorPattern.pdb
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.csprojResolveAssemblyReference.cache
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPatternTest\obj\Debug\netcoreapp2.0\MediatorPatternTest.pdb

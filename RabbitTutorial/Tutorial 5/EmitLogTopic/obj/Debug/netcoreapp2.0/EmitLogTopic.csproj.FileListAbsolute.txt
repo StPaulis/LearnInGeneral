@@ -1,0 +1,10 @@
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\bin\Debug\netcoreapp2.0\EmitLogTopic.deps.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\bin\Debug\netcoreapp2.0\EmitLogTopic.runtimeconfig.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\bin\Debug\netcoreapp2.0\EmitLogTopic.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\bin\Debug\netcoreapp2.0\EmitLogTopic.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\bin\Debug\netcoreapp2.0\EmitLogTopic.pdb
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\obj\Debug\netcoreapp2.0\EmitLogTopic.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\obj\Debug\netcoreapp2.0\EmitLogTopic.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\obj\Debug\netcoreapp2.0\EmitLogTopic.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\obj\Debug\netcoreapp2.0\EmitLogTopic.dll
+C:\Users\s.pavlis\Source\RabbitTutorial\Tutorial 5\EmitLogTopic\obj\Debug\netcoreapp2.0\EmitLogTopic.pdb

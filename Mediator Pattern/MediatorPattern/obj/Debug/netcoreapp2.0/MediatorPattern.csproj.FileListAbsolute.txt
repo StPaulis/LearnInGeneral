@@ -1,0 +1,11 @@
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\bin\Debug\netcoreapp2.0\MediatorPattern.deps.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\bin\Debug\netcoreapp2.0\MediatorPattern.runtimeconfig.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\bin\Debug\netcoreapp2.0\MediatorPattern.runtimeconfig.dev.json
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\bin\Debug\netcoreapp2.0\MediatorPattern.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\bin\Debug\netcoreapp2.0\MediatorPattern.pdb
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.csproj.CoreCompileInputs.cache
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.AssemblyInfoInputs.cache
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.AssemblyInfo.cs
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.dll
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.pdb
+C:\Users\s.pavlis\Source\Learn\Mediator Pattern\MediatorPattern\obj\Debug\netcoreapp2.0\MediatorPattern.csprojResolveAssemblyReference.cache

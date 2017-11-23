@@ -1,0 +1,12 @@
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\bin\Debug\netcoreapp2.0\GettingStartedWebAspBooks.deps.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\bin\Debug\netcoreapp2.0\GettingStartedWebAspBooks.runtimeconfig.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\bin\Debug\netcoreapp2.0\GettingStartedWebAspBooks.runtimeconfig.dev.json
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\bin\Debug\netcoreapp2.0\GettingStartedWebAspBooks.dll
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\bin\Debug\netcoreapp2.0\GettingStartedWebAspBooks.pdb
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.csproj.CoreCompileInputs.cache
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.AssemblyInfoInputs.cache
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.AssemblyInfo.cs
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.dll
+c:\users\s.pavlis\documents\visual studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.pdb
+C:\Users\s.pavlis\Documents\Visual Studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\s.pavlis\Documents\Visual Studio 2017\Projects\GettingStartedWebAspBooks\GettingStartedWebAspBooks\obj\Debug\netcoreapp2.0\GettingStartedWebAspBooks.csprojResolveAssemblyReference.cache
